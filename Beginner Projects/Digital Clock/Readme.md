@@ -1,4 +1,4 @@
-
+# Digital Clock
 ---
 
 ## 🚀 How to Run the Project
@@ -27,6 +27,14 @@
 - Responsive Styling
 - CSS Transitions
 - Theme Switching (Dark/Light Mode)
+
+---
+## ScreenShots
+### Light Mode
+![Light mode](https://github.com/user-attachments/assets/f9d1583c-3b8b-4237-8000-c941e2d2a0ad)
+
+### Dark tMode
+![dark mode](https://github.com/user-attachments/assets/8249baff-56a4-4dc0-8d86-5e248115bcb7)
 
 ---
 
