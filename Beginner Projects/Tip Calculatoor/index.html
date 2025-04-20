@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tip Calculator</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+
+    <div class="theme-toggle" id="themeToggle">
+        <i class="fa fa-moon" id="themeIcon"></i>
+    </div>
+
+    <div class="container">
+        <h1>💸 Tip Calculator</h1>
+
+        <div class="input-group">
+            <label for="billAmount">Bill Amount (₹)</label>
+            <input type="number" id="billAmount" placeholder="Enter bill amount" />
+        </div>
+
+        <div class="input-group">
+            <label for="tipPercent">Tip Percentage (%)</label>
+            <input type="number" id="tipPercent" placeholder="Enter tip %" />
+        </div>
+
+        <button onclick="calculateTip()">Calculate Tip</button>
+
+        <div class="result" id="resultBox">
+            <p>Tip Amount: ₹<span id="tipAmount">0.00</span></p>
+            <p>Total Bill: ₹<span id="totalAmount">0.00</span></p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
