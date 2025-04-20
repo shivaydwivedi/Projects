@@ -11,7 +11,11 @@ A fun and interactive web app that lets you change the background color of the p
 
 ## 📸 Preview
 
-![Preview Screenshot](screenshot.png) <!-- Optional: Add your actual screenshot file here -->
+### Light Mode
+![light mode](https://github.com/user-attachments/assets/584973b7-719a-4264-a1b8-31c9111bd1a1)
+
+### Dark Mode
+![Dark mode](https://github.com/user-attachments/assets/e67a84e0-4761-4f67-8d2c-4dafac4a1a02)
 
 ## 🛠️ Tech Stack
 
