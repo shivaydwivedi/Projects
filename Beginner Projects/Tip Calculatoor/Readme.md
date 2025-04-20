@@ -1,6 +1,5 @@
-Absolutely! Here’s a clean, easy-to-copy version of the `README.md` file for your **Tip Calculator with Dark/Light Mode** project:
+Tip Calculator
 
----
 
 ```markdown
 # 💸 Tip Calculator (with Dark/Light Mode)
