@@ -1,13 +1,9 @@
-Tip Calculator
 
-
-```markdown
-# 💸 Tip Calculator (with Dark/Light Mode)
+# 💸 Tip Calculator 
 
 A simple, responsive **Tip Calculator** built with HTML, CSS, and JavaScript.  
 Includes a modern dark/light mode toggle using ☀️/🌙 icons.
 
----
 
 ## 📌 Features
 
@@ -16,13 +12,13 @@ Includes a modern dark/light mode toggle using ☀️/🌙 icons.
 - 📱 Fully responsive design
 - 💻 Simple, clean user interface
 
----
+
 
 ## 🚀 Live Demo
 
 
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -30,19 +26,18 @@ Includes a modern dark/light mode toggle using ☀️/🌙 icons.
 - CSS3 (with CSS variables)
 - Vanilla JavaScript
 
----
 
 ## 📂 Project Structure
 
-```
+
 Tip-Calculator/
 ├── index.html       # Structure
 ├── style.css        # Styling + themes
 ├── script.js        # Functionality
 └── README.md
-```
 
----
+
+
 
 ## 🧠 How to Use
 
@@ -53,7 +48,6 @@ Tip-Calculator/
 
 Click 🌙 or ☀️ icon in the top right corner to switch themes!
 
----
 
 ## 📸 Screenshots
 
@@ -64,7 +58,7 @@ Click 🌙 or ☀️ icon in the top right corner to switch themes!
 ![image](https://github.com/user-attachments/assets/cd3a2717-fc98-4c6f-90c5-31c5c1315b87)
 
 
----
+
 
 ## 📥 Setup Locally
 
@@ -74,7 +68,7 @@ cd tip-calculator
 open index.html in your browser
 ```
 
----
+
 
 ## 🎯 To-Do / Improvements
 
@@ -82,14 +76,13 @@ open index.html in your browser
 - Add currency options
 - Add split bill calculation
 
----
+
 
 ## 🙋‍♂️ Author
 
 **Shivay Dwivedi**  
 🔗 [GitHub](https://github.com/shivaydwivedi)
 
----
 
 ## 🧾 License
 
