@@ -20,7 +20,7 @@ Includes a modern dark/light mode toggle using ☀️/🌙 icons.
 
 ## 🚀 Live Demo
 
-👉 [Click here to try it out](#) <!-- Replace with your live link -->
+
 
 ---
 
