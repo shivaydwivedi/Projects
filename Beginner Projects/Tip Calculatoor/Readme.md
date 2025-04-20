@@ -59,6 +59,11 @@ Click 🌙 or ☀️ icon in the top right corner to switch themes!
 ## 📸 Screenshots
 
 ### Light Mode
+![Light mode](https://github.com/user-attachments/assets/09c77b13-de5f-46ec-8a75-3f5ac1d77ac7)
+
+### Dark Mode
+![image](https://github.com/user-attachments/assets/cd3a2717-fc98-4c6f-90c5-31c5c1315b87)
+
 
 ---
 
