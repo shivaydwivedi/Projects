@@ -1,0 +1,66 @@
+:root {
+    --bg-color: #f0f0f0;
+    --text-color: #222;
+    --btn-bg: #fff;
+    --btn-color: #333;
+}
+
+body.dark {
+    --bg-color: #1e1e1e;
+    --text-color: #f9f9f9;
+    --btn-bg: #333;
+    --btn-color: #fff;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    transition: all 0.3s ease;
+}
+
+.theme-toggle {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    font-size: 1.5rem;
+    cursor: pointer;
+    color: var(--text-color);
+}
+
+.container {
+    text-align: center;
+    background: var(--btn-bg);
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+.counter-display {
+    font-size: 4rem;
+    margin: 1.5rem 0;
+    font-weight: bold;
+}
+
+.buttons button {
+    font-size: 1.2rem;
+    padding: 0.6rem 1.5rem;
+    margin: 0.5rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: var(--btn-color);
+    color: var(--btn-bg);
+    transition: background 0.3s;
+}
+
+.buttons button:hover {
+    opacity: 0.85;
+}
