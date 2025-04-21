@@ -11,6 +11,13 @@ A simple, beginner-friendly **Counter Application** built using **HTML**, **CSS*
 
 ## 📸 Preview
 
+### Light Mode
+![image](https://github.com/user-attachments/assets/32e6b9d2-393a-4748-b1d7-c92e25842dbc)
+
+### Dark Mode
+![image](https://github.com/user-attachments/assets/e97d2093-370c-4242-951a-d038dd50d303)
+
+
 
 
 
